@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1567265838 source:d:\cplusplus\affine_cipher\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
